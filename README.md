@@ -3,8 +3,8 @@
 </br>
 <table>
   <tr> 
-    <td width = "50%" valign="top"><b>메인페이지</b><img src="https://user-images.githubusercontent.com/105877042/216832762-dd63d876-422c-49e3-b64b-7e638ddb0785.JPG"/></td>
-    <td width = "50%" valign="top"><b>상세페이지</b><img src="https://user-images.githubusercontent.com/105877042/216832772-ba50f448-76fe-4ef7-9558-de14ae29ebcf.JPG"/></td>
+    <td width = "50%" valign="top"><b>메인페이지</b><img src="https://user-images.githubusercontent.com/105877042/218711701-0320018f-07fa-4e19-a3c6-f2318d131076.JPG"/></td>
+    <td width = "50%" valign="top"><b>상세페이지</b><img src="https://user-images.githubusercontent.com/105877042/218711708-65f6a4f2-ed1b-4f0d-ad55-1a778a02b28a.JPG"/></td>
   </tr>
 </table>
 </br>
@@ -15,8 +15,8 @@
 </br>
 <table>
   <tr> 
-    <td width = "50%" valign="top"><b>메인페이지</b><img src="https://user-images.githubusercontent.com/105877042/216832776-4d415af9-f319-4214-bd8d-b94918d631c2.JPG"/></td>
-    <td width = "50%" valign="top"><b>상세페이지</b><img src="https://user-images.githubusercontent.com/105877042/216832780-4fc608f1-cf3c-4176-bfaa-6ec2cf3be8e7.JPG"/></td>
+    <td width = "50%" valign="top"><b>메인페이지</b><img src="https://user-images.githubusercontent.com/105877042/218711724-aacc8e0b-fee9-47b5-aeae-36535812ac72.JPG"/></td>
+    <td width = "50%" valign="top"><b>상세페이지</b><img src="https://user-images.githubusercontent.com/105877042/218711727-dec20b1e-62e9-4512-a036-7f63cc8466ce.JPG"/></td>
   </tr>
 </table>
 </br>
