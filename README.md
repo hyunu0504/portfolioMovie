@@ -40,7 +40,7 @@ useContext로 데이터를 관리했습니다.
 
 local storage에 담아서 새로고침해도 보이도록 했습니다.
 
-깃헙은 SPA를 지원하지 않는다는 것을 모르고 새로고침을 했더니 404에러가 떠서
+새로고침을 할때 404에러가 발생해서 확인해보니 깃헙은 SPA를 지원하지 않는다고 해서
 
 react-route-dom의 Browserrouter를 Hashrouter로 변경해서 해결했습니다.
 
